@@ -54,8 +54,13 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'space-between',
     padding: '10px 50px',
-    backgroundColor: '#333',
+    backgroundColor: '#d95050ff',
     // color: '#f1dedeff',
+     position: 'sticky',
+  top: 0,
+  
+  
+  zIndex: 1000,
   },
   logo: {
     display: 'flex',

@@ -1,8 +1,8 @@
 import { Facebook, Twitter, Youtube, Instagram } from 'lucide-react';
 
-export default function Footer() {
+export default function Footers() {
   return (
-    <footer className="bg-gray-900 text-gray-400 rounded-base shadow-xs border border-default m-4 p-6">
+    <footer className="bg-gray-900 text-gray-400 rounded-base shadow-xs border border-default p-6">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Main Grid */}

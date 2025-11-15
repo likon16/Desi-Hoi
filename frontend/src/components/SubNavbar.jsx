@@ -36,11 +36,16 @@ const styles = {
     
     padding: '18px 0',
     paddingLeft: '50px',
-    backgroundColor: '#f5f5f5',
+    backgroundColor: '#eedfdfff',
     borderBottom: '2px solid #ddd',
     whiteSpace: 'nowrap',
     height: '55px',
-    overflowX: 'auto'
+    overflowX: 'auto',
+      position: 'sticky',
+  top: '60px',
+  
+  
+  zIndex: 900,
   },
   link: {
     marginRight: '30px',
